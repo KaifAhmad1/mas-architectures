@@ -1,5 +1,4 @@
 # 🤖 Multi-Agent Architecture Patterns
-## A Comprehensive Technical Guide for System Design & Implementation
 
 ---
 
